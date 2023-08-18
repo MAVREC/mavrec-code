@@ -1,0 +1,19 @@
+names:
+  0: tram
+  1: bicycle
+  2: van
+  3: truck
+  4: bus
+  5: person
+  6: car
+  7: other
+  8: streetlight
+  9: traffic_light
+
+nc: 10
+
+
+train: ../../DATASET/SDU-GAMODv4/supervised_annotations_yolov5/yolo_aerial/train
+val: ../../DATASET/SDU-GAMODv4/supervised_annotations_yolov5/yolo_ground/val
+test: ../../DATASET/SDU-GAMODv4/supervised_annotations_yolov5/yolo_aerial/test
+
