@@ -1,4 +1,4 @@
-# dvdv1-code
+# mavrec-code
 This code is provided for reproducibility of results in the paper: Multiview Aerial Visual Recognition (MAVREC):
 Can Multi-view Improve Aerial Visual Perception?
 
