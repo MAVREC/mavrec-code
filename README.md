@@ -7,9 +7,7 @@ MAVREC (Multiview Aerial Visual Recognition) is a comprehensive dataset that aim
 
 
 <!-- Image before Dataset section -->
-<div class="container">
-  <img src="assets/cvpr_poster_Aritra_edits_final.pdf" alt="Overview of MAVREC" style="width:100%;">
-</div>
+![Alt text for the image](/assets/cvpr_poster_Aritra_edits_final.pdf)
 
 ## Dataset
 The MAVREC dataset includes approximately 2.5 hours of high-quality 2.7K video, over 0.5 million frames, and 1.1 million annotated bounding boxes, making it a substantial resource for advancing aerial object detection technologies.
