@@ -17,5 +17,6 @@ The dataset can be requested from by filling out this form:[Dataset Request Form
 [MAVREC Dataset](https://mavrec.github.io)
 
 ### Dataset Preview
+![MAVREC Dataset](assets/MAVRECDatasetPresentationExample-2-ezgif.com-optimize.gif)
 
 
