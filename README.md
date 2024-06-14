@@ -14,7 +14,6 @@ The MAVREC dataset includes approximately 2.5 hours of high-quality 2.7K video, 
 
 ### Download
 The dataset can be requested from by filling out this form:[Dataset Request Form](https://forms.gle/e4KZuYixar4iEFMu9)
-[MAVREC Dataset](https://mavrec.github.io)
 
 ### Dataset Preview
 ![MAVREC Dataset](assets/MAVRECDatasetPresentationExample-2-ezgif.com-optimize.gif)
