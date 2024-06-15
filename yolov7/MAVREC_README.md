@@ -1,5 +1,5 @@
-# DVD README
-This readme explain how to setup the code-base used for trainining DVD benchmarks. 
+# MAVREC README
+This readme explain how to setup the code-base used for trainining MAVREC benchmarks. 
 
 ## Installation 
 Please refer to YOLOv7's [github page](https://github.com/WongKinYiu/yolov7) for dependencies and other installations. We do not rely on anything additional onces.
