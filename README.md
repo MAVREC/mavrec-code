@@ -20,13 +20,17 @@ The dataset can be requested from by filling out this form:[Dataset Request Form
 
 ### Training
 
-+To run semi-supervised approach in curriculum learning look at this [Curriculum Learning](omni-detr/MAVREC_README.md).
-+To run YoloV7 approach look here : [YoloV7](yolov7/MAVREC_README.md)
-+To run D-DETR approach look here : [Deformable-DETR](Deformable-DETR-Finetune/MAVREC_README.md)
++ To run semi-supervised approach in curriculum learning look at this [Curriculum Learning](omni-detr/MAVREC_README.md).
++ To run YoloV7 approach look here : [YoloV7](yolov7/MAVREC_README.md)
++ To run D-DETR approach look here : [Deformable-DETR](Deformable-DETR-Finetune/MAVREC_README.md)
 
 
 ### Usage LICENSE :
 
 The dataset is protected under the CC-BY license of Creative Commons, which allows users to distribute, remix, adapt, and build upon the material in any medium or format, as long as the creator is attributed. The license allows MAVREC for commercial use. As the authors of this manuscript and collectors of this dataset, we reserve the right to distribute the data.
+
+### Citation:
+If you find our work and dataset useful, please cite us using:
+
 
 
