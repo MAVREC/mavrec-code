@@ -18,6 +18,10 @@ The dataset can be requested from by filling out this form:[Dataset Request Form
 ### Dataset Preview
 ![MAVREC Dataset](assets/MAVRECDatasetPresentationExample-2-ezgif.com-optimize.gif)
 
+### Training
+
+To run semi-supervised approach in curriculum learning look at this [[omni-detr/MAVREC_README.md]]
+
 
 ### Usage LICENSE :
 
