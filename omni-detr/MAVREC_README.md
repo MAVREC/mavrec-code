@@ -1,5 +1,5 @@
 # DVD README
-This readme explain how to setup the code-base used for trainining DVD benchmarks. 
+This readme explain how to setup the code-base used for trainining MAVREC benchmarks. 
 
 ## Installation 
 Please refer to OMNI-DETR's [github page](https://github.com/amazon-science/omni-detr) for dependencies and other installations. We do not rely on anything additional.
