@@ -29,8 +29,7 @@ The dataset can be requested from by filling out this form:[Dataset Request Form
 
 The dataset is protected under the CC-BY license of Creative Commons, which allows users to distribute, remix, adapt, and build upon the material in any medium or format, as long as the creator is attributed. The license allows MAVREC for commercial use. As the authors of this manuscript and collectors of this dataset, we reserve the right to distribute the data.
 
-### Citation:
-If you find our work and dataset useful, please cite us using:
+
 
 
 
