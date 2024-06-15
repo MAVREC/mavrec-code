@@ -1,5 +1,5 @@
-# DVD README
-This readme explain how to setup the code-base used for trainining DVD benchmarks. 
+# MAVREC README
+This readme explain how to setup the code-base used for trainining MAVREC benchmarks. 
 
 ## Installation 
 Please refer to Deformable DETR's [github page](https://github.com/fundamentalvision/Deformable-DETR) for dependencies and other installations. We do not rely on anything additional.
