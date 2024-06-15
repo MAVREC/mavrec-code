@@ -20,7 +20,7 @@ The dataset can be requested from by filling out this form:[Dataset Request Form
 
 ### Training
 
-To run semi-supervised approach in curriculum learning look at this [[omni-detr/MAVREC_README.md]]
+To run semi-supervised approach in curriculum learning look at this [Curriculum Learning](omni-detr/MAVREC_README.md)
 
 
 ### Usage LICENSE :
