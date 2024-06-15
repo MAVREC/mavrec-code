@@ -1,4 +1,4 @@
-# DVD README
+# MAVREC README
 This readme explain how to setup the code-base used for trainining MAVREC benchmarks. 
 
 ## Installation 
