@@ -25,7 +25,7 @@ The dataset can be downloading from [HuggingFace](https://huggingface.co/dataset
 + To run D-DETR approach look here : [Deformable-DETR](Deformable-DETR-Finetune/MAVREC_README.md)
 
 ### Citation
-
+```
 @InProceedings{Dutta_2024_CVPR,
     author = {Dutta, Aritra and Das, Srijan and Nielsen, Jacob and Chakraborty, Rajatsubhra and Shah, Mubarak},
     title = {Multiview Aerial Visual RECognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?},
@@ -34,7 +34,7 @@ The dataset can be downloading from [HuggingFace](https://huggingface.co/dataset
     year = {2024},
     pages = {22678-22690}
 }
-
+```
 ### Usage LICENSE :
 
 The dataset is protected under the CC-BY license of Creative Commons, which allows users to distribute, remix, adapt, and build upon the material in any medium or format, as long as the creator is attributed. The license allows MAVREC for commercial use. As the authors of this manuscript and collectors of this dataset, we reserve the right to distribute the data.
