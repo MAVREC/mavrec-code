@@ -24,6 +24,16 @@ The dataset can be downloading from [HuggingFace](https://huggingface.co/dataset
 + To run YoloV7 approach look here : [YoloV7](yolov7/MAVREC_README.md)
 + To run D-DETR approach look here : [Deformable-DETR](Deformable-DETR-Finetune/MAVREC_README.md)
 
+### Citation
+
+@InProceedings{Dutta_2024_CVPR,
+    author = {Dutta, Aritra and Das, Srijan and Nielsen, Jacob and Chakraborty, Rajatsubhra and Shah, Mubarak},
+    title = {Multiview Aerial Visual RECognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2024},
+    pages = {22678-22690}
+}
 
 ### Usage LICENSE :
 
